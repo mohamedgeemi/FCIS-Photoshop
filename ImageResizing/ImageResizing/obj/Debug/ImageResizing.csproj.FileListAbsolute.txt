@@ -1,0 +1,120 @@
+D:\Project\ImageResizing\ImageResizing\bin\Debug\ImageResizing.exe.config
+D:\Project\ImageResizing\ImageResizing\bin\Debug\ImageResizing.exe
+D:\Project\ImageResizing\ImageResizing\bin\Debug\ImageResizing.pdb
+D:\Project\ImageResizing\ImageResizing\obj\Debug\MainWindow.baml
+D:\Project\ImageResizing\ImageResizing\obj\Debug\MainWindow.g.cs
+D:\Project\ImageResizing\ImageResizing\obj\Debug\App.g.cs
+D:\Project\ImageResizing\ImageResizing\obj\Debug\ImageResizing_MarkupCompile.cache
+D:\Project\ImageResizing\ImageResizing\obj\Debug\ImageResizing.g.resources
+D:\Project\ImageResizing\ImageResizing\obj\Debug\ImageResizing.Properties.Resources.resources
+D:\Project\ImageResizing\ImageResizing\obj\Debug\ImageResizing.csproj.GenerateResource.Cache
+D:\Project\ImageResizing\ImageResizing\obj\Debug\ImageResizing.exe
+D:\Project\ImageResizing\ImageResizing\obj\Debug\ImageResizing.pdb
+D:\Project\ImageResizing\ImageResizing\obj\Debug\App.baml
+D:\Project\ImageResizing\ImageResizing\obj\Debug\FileMenu.baml
+D:\Project\ImageResizing\ImageResizing\obj\Debug\FileMenu.g.cs
+D:\Project\ImageResizing\ImageResizing\obj\Debug\ParametersWindow.baml
+D:\Project\ImageResizing\ImageResizing\obj\Debug\ParametersWindow.g.cs
+D:\Project\ImageResizing\ImageResizing\obj\Debug\BlurMenu.baml
+D:\Project\ImageResizing\ImageResizing\obj\Debug\BlurMenu.g.cs
+D:\Project\ImageResizing\ImageResizing\obj\Debug\ResizeMenu.baml
+D:\Project\ImageResizing\ImageResizing\obj\Debug\ResizeMenu.g.cs
+D:\Project\ImageResizing\ImageResizing\obj\Debug\Progressbar.baml
+D:\Project\ImageResizing\ImageResizing\obj\Debug\Progressbar.g.cs
+D:\Project\ImageResizing\ImageResizing\obj\Debug\ImageResizing.csprojResolveAssemblyReference.cache
+D:\Project\ImageResizing\ImageResizing\obj\Debug\FilterMenu.baml
+D:\Project\ImageResizing\ImageResizing\obj\Debug\FilterMenu.g.cs
+D:\Project\ImageResizing\ImageResizing\obj\Debug\ImageAlgebra.baml
+D:\Project\ImageResizing\ImageResizing\obj\Debug\ImageAlgebra.g.cs
+D:\Project\ImageResizing\ImageResizing\obj\Debug\NoiseMenu.baml
+D:\Project\ImageResizing\ImageResizing\obj\Debug\NoiseMenu.g.cs
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\bin\Debug\ImageResizing.exe.config
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\ImageResizing.exe
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\ImageResizing.pdb
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\bin\Debug\ImageResizing.exe
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\bin\Debug\ImageResizing.pdb
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\ImageResizing.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\FileMenu.baml
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\FilterMenu.baml
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\ImageAlgebra.baml
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\MainWindow.baml
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\NoiseMenu.baml
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\ParametersWindow.baml
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\BlurMenu.baml
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\Progressbar.baml
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\ResizeMenu.baml
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\App.baml
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\FileMenu.g.cs
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\FilterMenu.g.cs
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\ImageAlgebra.g.cs
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\MainWindow.g.cs
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\NoiseMenu.g.cs
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\ParametersWindow.g.cs
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\BlurMenu.g.cs
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\Progressbar.g.cs
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\ResizeMenu.g.cs
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\App.g.cs
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\ImageResizing_MarkupCompile.cache
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\ImageResizing.g.resources
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\ImageResizing.Properties.Resources.resources
+C:\Users\Mahmoud\Desktop\ImageResizing (2)\ImageResizing\ImageResizing\obj\Debug\ImageResizing.csproj.GenerateResource.Cache
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\bin\Debug\ImageResizing.exe.config
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\ImageResizing.exe
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\ImageResizing.pdb
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\bin\Debug\ImageResizing.exe
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\bin\Debug\ImageResizing.pdb
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\ImageResizing.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\FileMenu.baml
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\FilterMenu.baml
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\ImageAlgebra.baml
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\MainWindow.baml
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\NoiseMenu.baml
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\ParametersWindow.baml
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\BlurMenu.baml
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\Progressbar.baml
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\ResizeMenu.baml
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\App.baml
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\FileMenu.g.cs
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\FilterMenu.g.cs
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\ImageAlgebra.g.cs
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\MainWindow.g.cs
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\NoiseMenu.g.cs
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\ParametersWindow.g.cs
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\BlurMenu.g.cs
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\Progressbar.g.cs
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\ResizeMenu.g.cs
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\App.g.cs
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\ImageResizing_MarkupCompile.cache
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\ImageResizing.g.resources
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\ImageResizing.Properties.Resources.resources
+C:\Users\Mahmoud\Desktop\FCIS Photoshop\ImageResizing\ImageResizing\obj\Debug\ImageResizing.csproj.GenerateResource.Cache
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\bin\Debug\ImageResizing.exe.config
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\ImageResizing.exe
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\ImageResizing.pdb
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\bin\Debug\ImageResizing.exe
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\bin\Debug\ImageResizing.pdb
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\ImageResizing.csprojResolveAssemblyReference.cache
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\FileMenu.baml
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\FilterMenu.baml
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\ImageAlgebra.baml
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\MainWindow.baml
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\NoiseMenu.baml
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\ParametersWindow.baml
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\BlurMenu.baml
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\Progressbar.baml
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\ResizeMenu.baml
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\App.baml
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\FileMenu.g.cs
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\FilterMenu.g.cs
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\ImageAlgebra.g.cs
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\MainWindow.g.cs
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\NoiseMenu.g.cs
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\ParametersWindow.g.cs
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\BlurMenu.g.cs
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\Progressbar.g.cs
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\ResizeMenu.g.cs
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\App.g.cs
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\ImageResizing_MarkupCompile.cache
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\ImageResizing.g.resources
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\ImageResizing.Properties.Resources.resources
+C:\Users\Gemi\Desktop\algo\FCIS Photoshop - Final\ImageResizing\ImageResizing\obj\Debug\ImageResizing.csproj.GenerateResource.Cache

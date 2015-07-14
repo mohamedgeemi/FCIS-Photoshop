@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ImageResizing.Animator" Collapsed="true">
+    <Position X="36.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Animator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.App" Collapsed="true">
+    <Position X="38.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.IdentityMatrix" Collapsed="true">
+    <Position X="40.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAABoAAAAABAAgAABAAgAIAAAAAAAAAAAAAAAgEQ=</HashCode>
+      <FileName>Blur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.Blur" Collapsed="true">
+    <Position X="40.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgAAAAIAAAAAAAAAIAAAAAAkAQAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Blur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.SampleOp" Collapsed="true">
+    <Position X="43.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAFAAAAAAAACAAAEACAgAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>BlurMenu.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.CAResizing" Collapsed="true">
+    <Position X="25.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIBCAQAEAIBAAAAAAgAAAAAAAAACAAAAAIAAAA=</HashCode>
+      <FileName>CAResizing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.Pair" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="42" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQQAAgEAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContentAwareResize.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ImageResizing.ContentAwareResize" Collapsed="true">
+    <Position X="42" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAAggAAYAGqAAAAAICAQgJABoAAAAIgAgAAgEQAGIA=</HashCode>
+      <FileName>ContentAwareResize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.FileMenu" Collapsed="true">
+    <Position X="43.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAABAAAAAAAAAEAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>FileMenu.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.FilterMenu" Collapsed="true">
+    <Position X="36.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAADAAAAAAAAAAAAQAAAAAgQAAAAAAAA=</HashCode>
+      <FileName>FilterMenu.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.Globals" Collapsed="true">
+    <Position X="38.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAACAAIAAAABAQIQAIAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Globals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.ImageAlgebra" Collapsed="true">
+    <Position X="42" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImageAlgebra.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.BilResize" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>ImageProc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.Greyscale" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>ImageProc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.Brightness" Collapsed="true">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>ImageProc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.InvertOp" Collapsed="true">
+    <Position X="27.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>ImageProc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.GammaOp" Collapsed="true">
+    <Position X="32" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>ImageProc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.ContrastOp" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>ImageProc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.AddImages" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>ImageProc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.Sltppr" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>ImageProc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.Median" Collapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>ImageProc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.Tint" Collapsed="true">
+    <Position X="23" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>ImageProc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.ImageProcOp" Collapsed="true">
+    <Position X="43.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAEAAAAAgAQAAAAAAAAIAAAAEAAoBAMQ=</HashCode>
+      <FileName>ImageProcOp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.ImageStream" Collapsed="true">
+    <Position X="36.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAEAAAQAAAQAAAABAAAABAAAAAAEAAAAAEBA=</HashCode>
+      <FileName>ImageStream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.MainWindow" Collapsed="true">
+    <Position X="38.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAgAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.NoiseMenu" Collapsed="true">
+    <Position X="40.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAARAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>NoiseMenu.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.Operation" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAgIAAAAAAAAAAAAEAAQAEAAEAAAACQAAAACBAAA=</HashCode>
+      <FileName>Operation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.ParametersWindow" Collapsed="true">
+    <Position X="43.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAoAAAABAABAAAAAAVAAGAAACAkAAAAAAQACAAAAQA=</HashCode>
+      <FileName>ParametersWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.ProgressbarWin" Collapsed="true">
+    <Position X="36.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Progressbar.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.ResizeMenu" Collapsed="true">
+    <Position X="38.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>ResizeMenu.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.RImage" Collapsed="true">
+    <Position X="42" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAABpAAEAaASggDgEQAIAAEARAAEIDAAAAIAwA=</HashCode>
+      <FileName>RImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.UIAssembler" Collapsed="true">
+    <Position X="38.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAAAAAwAACAAAAABBgEQBAAAAAIEAQAAZEEJAAA=</HashCode>
+      <FileName>UIAssembler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.BlurOp.SmoothOp" Collapsed="true">
+    <Position X="29.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>BlurOp\BlurOpeartions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.BlurOp.GussianFilterOp" Collapsed="true">
+    <Position X="34.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>BlurOp\BlurOpeartions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.BlurOp.SharpenOp" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>BlurOp\BlurOpeartions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.BlurOp.MedianRemovalOp" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>BlurOp\BlurOpeartions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.BlurOp.EdgeDetectOp" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>BlurOp\BlurOpeartions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.Properties.Resources" Collapsed="true">
+    <Position X="40.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageResizing.Properties.Settings" Collapsed="true">
+    <Position X="36.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ImageResizing.MyColor" Collapsed="true">
+    <Position X="40.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ContentAwareResize.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImageResizing.Color" Collapsed="true">
+    <Position X="36.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAEAAQA=</HashCode>
+      <FileName>ContentAwareResize.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImageResizing.pixel" Collapsed="true">
+    <Position X="43.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAEAAAAAAgAAA=</HashCode>
+      <FileName>ContentAwareResize.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImageResizing.Coor" Collapsed="true">
+    <Position X="38.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>ImageStream.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImageResizing.Pixel" Collapsed="true">
+    <Position X="36.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAQABAAAAAAA=</HashCode>
+      <FileName>RImage.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImageResizing.RImageBack" Collapsed="true">
+    <Position X="38.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RImage.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Parameter" Collapsed="true">
+    <Position X="42" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAQAAAAAAAAAAAAAAABACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operation.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="ImageResizing.Dir" Collapsed="true">
+    <Position X="38.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAgAAAAAAAIAABAAAAA=</HashCode>
+      <FileName>ContentAwareResize.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImageResizing.CompareState" Collapsed="true">
+    <Position X="36.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAgAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>RImage.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ParameterType" Collapsed="true">
+    <Position X="40.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIACgAAAAAAAAAACA=</HashCode>
+      <FileName>Operation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

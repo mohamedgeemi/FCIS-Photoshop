@@ -1,0 +1,19 @@
+﻿<Page x:Class="ImageResizing.FilterMenu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="188" d:DesignWidth="200"
+	Title="FilterMenu">
+
+    <Grid Background="#eeeeee" Width="200" Height="188">
+        <Label Content="Filters" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Button Content="Grayscale" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Width="180" Click="GrayscaleClick"/>
+        <Button Content="Brightness" HorizontalAlignment="Left" Margin="10,77,0,0" VerticalAlignment="Top" Width="180" Click="BrightnessClick"/>
+        <Button Content="Invert" HorizontalAlignment="Left" Margin="10,104,0,0" VerticalAlignment="Top" Width="180" Click="InvertClick"/>
+        <Button Content="Gamma" HorizontalAlignment="Left" Margin="10,131,0,0" VerticalAlignment="Top" Width="180" Click="GammaClick"/>
+        <Button Content="Contrast" HorizontalAlignment="Left" Margin="10,158,0,0" VerticalAlignment="Top" Width="180" Click="ContrastClick"/>
+
+    </Grid>
+</Page>
