@@ -1,0 +1,16 @@
+﻿<Page x:Class="ImageResizing.ResizeMenu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="113" d:DesignWidth="200"
+	Title="ResizeMenu">
+
+    <Grid Background="#eeeeee" Width="200" Height="113">
+        <Label Content="Resize Menu" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Button Content="Resize Using Seam Carving" HorizontalAlignment="Left" Margin="10,52,0,0" VerticalAlignment="Top" Width="180" Height="24" Click="Button_Click_1"/>
+        <Button Content="Bilinear Resizing" HorizontalAlignment="Left" Margin="10,81,0,0" VerticalAlignment="Top" Width="180" Height="24" Click="Button_Click_2" />
+
+    </Grid>
+</Page>

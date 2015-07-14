@@ -1,0 +1,17 @@
+﻿<Page x:Class="ImageResizing.NoiseMenu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="141" d:DesignWidth="200"
+	Title="NoiseMenu">
+
+    <Grid Background="#eeeeee" Width="200" Height="141">
+        <Label Content="Noise" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Button Content="Salt and Pepper" HorizontalAlignment="Left" Margin="10,52,0,0" VerticalAlignment="Top" Width="180" Click="SltPprClick" Height="23"/>
+        <Button Content="Median" HorizontalAlignment="Left" Margin="10,80,0,0" VerticalAlignment="Top" Width="180" Height="23" Click="Button_Click_1"/>
+        <Button Content="Tint" HorizontalAlignment="Left" Margin="10,108,0,0" VerticalAlignment="Top" Width="180" Height="23" Click="Button_Click_2"/>
+
+    </Grid>
+</Page>
